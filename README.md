@@ -1,6 +1,6 @@
 # Photography_Template
 
-![screenshot-mehrsa-mohajeri-developer github io-2023 09 27-19_39_22 (1)](https://github.com/Mehrsa-Mohajeri-Developer/Photography_Template/assets/145048780/8ea78b7a-78e6-48d0-97c0-0df2c4d57878)
+![screencapture-mehrsa-mohajeri-developer-github-io-Photography-Template-2023-09-27-20_02_03](https://github.com/Mehrsa-Mohajeri-Developer/Photography_Template/assets/145048780/1dd3f8f9-3358-480b-b901-3d6b3b9746fe)
 
 - 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Photography_Template/)
 
