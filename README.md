@@ -4,9 +4,9 @@
 
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
-- 📆 Created: 2023-09-
+- 📆 Created: 2023-09-25
 
-- ✔️ Technologies Used: HTML, CSS, SASS, Flex
+- ✔️ Technologies Used: HTML, CSS, SASS, Flex, Grid
 
 - 💥 Role: Front-End
 
