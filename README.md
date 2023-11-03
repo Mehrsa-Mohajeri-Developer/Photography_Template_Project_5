@@ -1,4 +1,4 @@
-# Photography_Template_With_Grid
+# Photography_Template_Project_5
 
 **If you're a photographer or just someone who wants to showcase your photos on a website, this template is perfect for you. So, go ahead and check out my code ♥️📸**
 
